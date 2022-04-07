@@ -9,5 +9,5 @@ export default {
     'armor-penetration-poison': 2
   },
   type: 'major',
-  version: '6.540'
+  version: '7.700'
 };
