@@ -5,7 +5,7 @@ export default {
   powers: ['diffusion', 'envenom'],
   requirements: ['domain:plague'],
   stats: {
-    'armor-penetration-piercing': 3,
+    'armor-penetration-piercing': 2,
     'armor-penetration-poison': 2
   },
   type: 'major',
